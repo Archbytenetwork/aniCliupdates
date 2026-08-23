@@ -1,0 +1,7 @@
+# Distribution-only repository.
+# Everything is ignored except the files whitelisted below.
+# APKs are published as GitHub Release assets, not committed.
+
+/*
+!/.gitignore
+!/version.json
