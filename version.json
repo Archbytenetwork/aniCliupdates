@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "versionCode": 3,
+  "version": "1.2.0",
+  "versionCode": 4,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive.apk",
-  "changelog": "- Update system verification"
+  "changelog": "- Orange & obsidian redesign\n- In-app ad breaks between episodes\n- Reworked About screen"
 }
