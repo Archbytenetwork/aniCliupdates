@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "versionCode": 9,
+  "version": "1.2.6",
+  "versionCode": 10,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive.apk",
-  "changelog": "- Update flow test build (no functional changes)"
+  "changelog": "- Rebuilt download progress bar"
 }
