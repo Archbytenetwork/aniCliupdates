@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
-  "versionCode": 13,
+  "versionCode": 10209,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/download/v1.2.9/aniclive-arm64.apk",
   "changelog": "- Fix update version comparison bug\n- Ad webview error handling and retry"
 }
