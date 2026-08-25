@@ -5,3 +5,4 @@
 /*
 !/.gitignore
 !/version.json
+!/lib/services/update_service.dart
