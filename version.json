@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
   "versionCode": 13,
-  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive.apk",
-  "changelog": "- Import and export your watchlist as MyAnimeList (MAL) XML"
+  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/download/v1.2.9/aniclive-arm64.apk",
+  "changelog": "- Fix update version comparison bug\n- Ad webview error handling and retry"
 }
