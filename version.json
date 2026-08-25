@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "versionCode": 10213,
+  "version": "1.2.14",
+  "versionCode": 10214,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Fix MAL import: catalog now fully loads before matching\n- Import progress indicator"
+  "changelog": "- MAL import: O(1) title matching via lookup index (was O(n²))\n- Import progress bar with real progress"
 }
