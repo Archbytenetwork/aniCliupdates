@@ -1,6 +1,6 @@
 {
-  "version": "1.2.17",
-  "versionCode": 10217,
+  "version": "1.2.18",
+  "versionCode": 10218,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Unique username system with server-side validation\n- Display name + username separation\n- Collapsible reply threads\n- Comment character limit (280)\n- Anti-spam rate limiting\n- Accurate per-episode comment counts"
+  "changelog": "- Video quality selector (Auto / 1080p / 720p / 480p / 360p)\n- Better comment threads\n- Improved playback controls"
 }
