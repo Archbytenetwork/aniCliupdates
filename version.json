@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
-  "versionCode": 10216,
+  "version": "1.2.17",
+  "versionCode": 10217,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Account login from home menu\n- Faster catalog search\n- Bug fixes and improvements"
+  "changelog": "- Unique username system with server-side validation\n- Display name + username separation\n- Collapsible reply threads\n- Comment character limit (280)\n- Anti-spam rate limiting\n- Accurate per-episode comment counts"
 }
