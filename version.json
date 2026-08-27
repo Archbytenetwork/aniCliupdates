@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
-  "versionCode": 10215,
+  "version": "1.2.16",
+  "versionCode": 10216,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Faster MAL list imports\n- Improved update download reliability\n- General bug fixes and improvements"
+  "changelog": "- Account login from home menu\n- Faster catalog search\n- Bug fixes and improvements"
 }
