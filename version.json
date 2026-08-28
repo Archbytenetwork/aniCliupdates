@@ -1,6 +1,6 @@
 {
-  "version": "1.2.18",
-  "versionCode": 10218,
-  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Video quality selector (Auto / 1080p / 720p / 480p / 360p)\n- Better comment threads\n- Improved playback controls"
+  "version": "1.2.19",
+  "versionCode": 10219,
+  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/download/v1.2.19/aniclive-arm64.apk",
+  "changelog": "- Multi-select genre filter (all 45 genres, grid picker)\n- Filter button with active count badge"
 }
