@@ -1,6 +1,6 @@
 {
-  "version": "1.2.19",
-  "versionCode": 10219,
-  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/download/v1.2.19/aniclive-arm64.apk",
-  "changelog": "- Multi-select genre filter (all 45 genres, grid picker)\n- Filter button with active count badge"
+  "version": "1.2.20",
+  "versionCode": 10220,
+  "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/download/v1.2.20/aniclive-arm64.apk",
+  "changelog": "- Offline downloads now work for every episode (HLS segments)\n- Downloads resume & retry on connection drops\n- Downloading popup with 'See download progress'"
 }
