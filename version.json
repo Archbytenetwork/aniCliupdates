@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "versionCode": 10302,
+  "version": "1.3.3",
+  "versionCode": 10303,
   "url": "https://github.com/Archbytenetwork/aniCliupdates/releases/latest/download/aniclive-arm64.apk",
-  "changelog": "- Subtitle language selection: pick your preferred subtitle track,\n  English is used by default for dubs.\n- More reliable stream resolution."
+  "changelog": "- Fixed updates failing to install on existing installs.\n- Update download progress now displays correctly."
 }
